@@ -5,9 +5,8 @@
 Hello, everyone! I am vikash , currently pursuing my 4-years Bachelor's degree in Computer Science .
 I have a strong passion for exploring the fascinating world of machine learning and data analysis. Being a technology enthusiast, I am excited to delve into the realms of AI and uncover insights from data. I look forward to learning and collaborating with all of you in this amazing journey of discovery and innovation.
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Vikash" /></a></p>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
 </p>
 
@@ -70,4 +69,4 @@ I have a strong passion for exploring the fascinating world of machine learning 
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash129&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
-"# vikash129" 
+
